@@ -1,0 +1,15 @@
+{
+  "name": "todoapi",
+  "version": "0.0.1",
+  "description": "this is todo api sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "csprng": "^0.1.2",
+    "restify": "^8.5.1"
+  }
+}
